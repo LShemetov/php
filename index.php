@@ -33,9 +33,6 @@ else
         <ul>
             <li><a href="https://www.intuit.ru/">Intuit courses</a></li>
             <li><a href="http://video.lisa-alisa.ru/">Usefull video</a></li>
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_PHP.rds.html">Coursera courses</a>
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-ec2.html">Information security tests</a></li>
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-resources.html">Advices</a></li>
         </ul>
 
         <h2>PHP manuals</h2>
